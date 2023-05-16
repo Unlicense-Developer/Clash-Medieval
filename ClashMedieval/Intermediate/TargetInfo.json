@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ClashMedieval",
+			"Path": "C:\\Users\\Jun\\source\\repos\\Github\\Clash-Medieval\\ClashMedieval\\Source\\ClashMedieval.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ClashMedievalEditor",
+			"Path": "C:\\Users\\Jun\\source\\repos\\Github\\Clash-Medieval\\ClashMedieval\\Source\\ClashMedievalEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

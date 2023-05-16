@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\jun\\source\\repos\\github\\clash-medieval\\clashmedieval\\intermediate\\build\\win64\\unrealeditor\\inc\\clashmedieval\\clashmedievalgamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\jun\\source\\repos\\github\\clash-medieval\\clashmedieval\\intermediate\\build\\win64\\clashmedievaleditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\jun\\source\\repos\\github\\clash-medieval\\clashmedieval\\intermediate\\build\\win64\\unrealeditor\\development\\clashmedieval\\definitions.clashmedieval.h",
+            "c:\\users\\jun\\source\\repos\\github\\clash-medieval\\clashmedieval\\source\\clashmedieval\\clashmedievalgamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "c:\\users\\jun\\source\\repos\\github\\clash-medieval\\clashmedieval\\intermediate\\build\\win64\\unrealeditor\\inc\\clashmedieval\\clashmedievalgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

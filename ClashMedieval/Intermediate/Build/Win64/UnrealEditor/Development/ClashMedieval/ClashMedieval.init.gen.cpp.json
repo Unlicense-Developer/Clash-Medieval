@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\jun\\source\\repos\\github\\clash-medieval\\clashmedieval\\intermediate\\build\\win64\\unrealeditor\\inc\\clashmedieval\\clashmedieval.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\jun\\source\\repos\\github\\clash-medieval\\clashmedieval\\intermediate\\build\\win64\\clashmedievaleditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\jun\\source\\repos\\github\\clash-medieval\\clashmedieval\\intermediate\\build\\win64\\unrealeditor\\development\\clashmedieval\\definitions.clashmedieval.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

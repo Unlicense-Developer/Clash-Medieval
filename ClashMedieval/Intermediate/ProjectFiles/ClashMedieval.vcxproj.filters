@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ClashMedieval.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ClashMedieval.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ClashMedievalEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ClashMedieval">
+      <UniqueIdentifier>{145258E5-749F-3470-9B28-97ADA65BD908}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ClashMedieval\ClashMedieval.Build.cs">
+      <Filter>Source\ClashMedieval</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ClashMedieval\ClashMedieval.cpp">
+      <Filter>Source\ClashMedieval</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ClashMedieval\ClashMedieval.h">
+      <Filter>Source\ClashMedieval</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ClashMedieval\ClashMedievalGameModeBase.cpp">
+      <Filter>Source\ClashMedieval</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ClashMedieval\ClashMedievalGameModeBase.h">
+      <Filter>Source\ClashMedieval</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
