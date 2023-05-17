@@ -1,7 +1,7 @@
-C:\Users\Jun\source\repos\Github\Clash-Medieval\ClashMedieval\Source\ClashMedieval\ClashMedievalGameModeBase.cpp
+C:\Users\SBAUser\source\repos\Github\Clash-Medieval\ClashMedieval\Source\ClashMedieval\ClashMedievalGameModeBase.cpp
 /I .
-/I C:\Users\Jun\source\repos\Github\Clash-Medieval\ClashMedieval\Intermediate\Build\Win64\UnrealEditor\Inc\ClashMedieval
-/I C:\Users\Jun\source\repos\Github\Clash-Medieval\ClashMedieval\Source
+/I C:\Users\SBAUser\source\repos\Github\Clash-Medieval\ClashMedieval\Intermediate\Build\Win64\UnrealEditor\Inc\ClashMedieval
+/I C:\Users\SBAUser\source\repos\Github\Clash-Medieval\ClashMedieval\Source
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -267,18 +267,18 @@ C:\Users\Jun\source\repos\Github\Clash-Medieval\ClashMedieval\Source\ClashMediev
 /I ThirdParty\PhysX3\PhysX_3.4\Include\common
 /I ThirdParty\PhysX3\PhysX_3.4\Include\extensions
 /I ThirdParty\PhysX3\PhysX_3.4\Include\geometry
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
+/I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"C:\Users\Jun\source\repos\Github\Clash-Medieval\ClashMedieval\Intermediate\Build\Win64\ClashMedievalEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/FI"C:\Users\Jun\source\repos\Github\Clash-Medieval\ClashMedieval\Intermediate\Build\Win64\UnrealEditor\Development\ClashMedieval\Definitions.ClashMedieval.h"
-/Yu"C:\Users\Jun\source\repos\Github\Clash-Medieval\ClashMedieval\Intermediate\Build\Win64\ClashMedievalEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\Jun\source\repos\Github\Clash-Medieval\ClashMedieval\Intermediate\Build\Win64\ClashMedievalEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-/Fo"C:\Users\Jun\source\repos\Github\Clash-Medieval\ClashMedieval\Intermediate\Build\Win64\UnrealEditor\Development\ClashMedieval\ClashMedievalGameModeBase.cpp.obj"
-/sourceDependencies C:\Users\Jun\source\repos\Github\Clash-Medieval\ClashMedieval\Intermediate\Build\Win64\UnrealEditor\Development\ClashMedieval\ClashMedievalGameModeBase.cpp.json
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\winrt"
+/FI"C:\Users\SBAUser\source\repos\Github\Clash-Medieval\ClashMedieval\Intermediate\Build\Win64\ClashMedievalEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/FI"C:\Users\SBAUser\source\repos\Github\Clash-Medieval\ClashMedieval\Intermediate\Build\Win64\UnrealEditor\Development\ClashMedieval\Definitions.ClashMedieval.h"
+/Yu"C:\Users\SBAUser\source\repos\Github\Clash-Medieval\ClashMedieval\Intermediate\Build\Win64\ClashMedievalEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\SBAUser\source\repos\Github\Clash-Medieval\ClashMedieval\Intermediate\Build\Win64\ClashMedievalEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+/Fo"C:\Users\SBAUser\source\repos\Github\Clash-Medieval\ClashMedieval\Intermediate\Build\Win64\UnrealEditor\Development\ClashMedieval\ClashMedievalGameModeBase.cpp.obj"
+/sourceDependencies C:\Users\SBAUser\source\repos\Github\Clash-Medieval\ClashMedieval\Intermediate\Build\Win64\UnrealEditor\Development\ClashMedieval\ClashMedievalGameModeBase.cpp.json
 /Zc:inline
 /nologo
 /Oi

@@ -1,12 +1,12 @@
 {
-    "Version": "1.1",
+    "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\jun\\source\\repos\\github\\clash-medieval\\clashmedieval\\source\\clashmedieval\\clashmedieval.cpp",
+        "Source": "c:\\users\\sbauser\\source\\repos\\github\\clash-medieval\\clashmedieval\\source\\clashmedieval\\clashmedieval.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\jun\\source\\repos\\github\\clash-medieval\\clashmedieval\\intermediate\\build\\win64\\clashmedievaleditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "PCH": "c:\\users\\sbauser\\source\\repos\\github\\clash-medieval\\clashmedieval\\intermediate\\build\\win64\\clashmedievaleditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
         "Includes": [
-            "c:\\users\\jun\\source\\repos\\github\\clash-medieval\\clashmedieval\\intermediate\\build\\win64\\unrealeditor\\development\\clashmedieval\\definitions.clashmedieval.h",
-            "c:\\users\\jun\\source\\repos\\github\\clash-medieval\\clashmedieval\\source\\clashmedieval\\clashmedieval.h"
+            "c:\\users\\sbauser\\source\\repos\\github\\clash-medieval\\clashmedieval\\intermediate\\build\\win64\\unrealeditor\\development\\clashmedieval\\definitions.clashmedieval.h",
+            "c:\\users\\sbauser\\source\\repos\\github\\clash-medieval\\clashmedieval\\source\\clashmedieval\\clashmedieval.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
